@@ -1,0 +1,36 @@
+.header1 {
+color: red;
+font-family: 'Langar', cursive;
+font-size: 40px;
+display: flex;
+flex-direction: row;
+}
+
+#judul {
+    color: black;
+    
+}
+
+#judul :hover {
+    color: red;
+}
+
+.header2 {
+color: cornflowerblue;
+font-family: fantasy;
+}
+
+body {
+    background-image: url("../Assets/images/sexy2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+    
+}
+
+
+@font-face {
+    font-family: fantasy;
+    src: url("../Assets/Fonts/Langar-Regular.ttf");
+}
